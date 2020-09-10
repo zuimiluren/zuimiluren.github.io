@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 个人博客
+subtitle: 为人性僻耽佳句，语不惊人死不休。
 ---
 
 <div>
