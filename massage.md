@@ -5,15 +5,6 @@ subtitle: 这是最迷路人的博客
 sitemap:
   priority: 0.9
 ---
-<header class="header">
-<div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="">简历</a></li>
-<li class="menu__entry"><a href="">个人博客</a></li>
-</ul>
-</div>
-
 </header>
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
