@@ -14,7 +14,6 @@ sitemap:
 </ul>
 </div>
 
-</ul>
 </header>
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
